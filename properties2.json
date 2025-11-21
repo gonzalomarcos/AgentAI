@@ -934,18 +934,4 @@
       "latitude": 39.4843,
       "longitude": -0.3647
     }
-  },
-  {
-    "id": 27,
-    "reference": "4801/48010027/88",
-    "type": "duplex",
-    "town": "Bilbao",
-    "neighborhood": "Indautxu",
-    "postal_code": "48011",
-    "price": 385000.0,
-    "rooms": 3,
-    "bathrooms": 2,
-    "area": 105,
-    "floor": "4",
-    "built_year": 2012,
-    "rental_value": 1400
+  }]
